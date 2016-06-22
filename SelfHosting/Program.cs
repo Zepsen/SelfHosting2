@@ -19,7 +19,6 @@ namespace SelfHosting
                 Console.WriteLine("Press any key to quit.");
                 Console.ReadLine();
             }
-
         }
 
         public static string GetLocalIPAddress()
